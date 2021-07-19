@@ -12,8 +12,8 @@ skype: ussnikita209
 
 ## ABOUT MYSELF
 
-I am reasonable, non-conflict and responsible person. One of my favorite activities is to create programmes. Now i'm improving my skills in front-end development. 
-I have made some simple one page sites and regularly do tasks from site [codewars](https://www.codewars.com/). 
+I am reasonable, non-conflict and responsible person. One of my favorite activities is to create programmes. Now i'm improving my skills in front-end development. I have made some simple one page sites and regularly do tasks from site [codewars](https://www.codewars.com/).  
+
 I like to develop and learn new things. I really want to become a professional **Front-end Developer**.
 
 ## SKILLS
@@ -60,6 +60,8 @@ I have no commercial development experience, but I really want to develop and st
 
 ## ENGLISH SKILL
 
-My level of speaking english is about B1. While studying at the university, I went to America on the work and travel program.
+My level of speaking english is about B1.  
+
+While studying at the university, I went to America on the work and travel program.
 I lived there for three months and talked a lot with native speakers.
 
