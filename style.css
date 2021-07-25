@@ -3,7 +3,7 @@ header{
   padding-bottom: 0;
 }
 
-img{
+#photo{
   position: absolute;
   right: 0;
   height: 100%;
@@ -45,4 +45,16 @@ h1{
 
 a{
   text-align: left;
+}
+
+.logo{
+  
+  height: 40px;
+}
+
+footer{
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
