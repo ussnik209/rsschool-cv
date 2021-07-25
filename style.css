@@ -58,3 +58,24 @@ footer{
   align-items: center;
   justify-content: space-around;
 }
+
+nav{
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+
+nav>ul{
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+nav>ul>li{
+  list-style-type: none;
+  margin: 0;
+}
+
+li>a{
+  text-decoration: none;
+}
