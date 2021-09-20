@@ -1,13 +1,34 @@
-body{
+body {
   margin: 0;
   padding: 0;
 }
 
-.container{
+html {
+  font-size: 2.5vh;
+  scroll-behavior: smooth;
+}
+
+nav>ul>li {
+  font-size: 0.8rem;
+}
+
+.container {
   margin: auto auto;
   padding: 20px 50px;
   max-width: 1000px;
-  min-width: 1000px;
+}
+
+a {
+  color: inherit
+}
+
+a:hover {
+  color: grey;
+}
+
+.dark {
+  background-color: #374957;
+  color: white;
 }
 
 header {
@@ -16,36 +37,32 @@ header {
 }
 
 #photo {
-  position: absolute;
-  right: 0;
-  height: 100%;
+  width: 30%;
 }
 
 div {
   clear: right;
 }
 
-.unmarked {
-  padding-left: 2%;
-}
-
 li {
   text-align: left;
-  margin-left: 47%;
+  font-size: 1rem;
 }
 
 li>ul>li {
   margin-left: 0;
 }
 
+.unmarked {
+  padding-left: 0px;
+}
+
 .unmarked>li {
-  text-align: center;
   list-style-type: none;
-  margin-left: 0;
 }
 
 main {
-  text-align: center;
+  text-align: left;
 }
 
 h1 {
@@ -64,9 +81,10 @@ a {
 
 footer {
   margin-top: 50px;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
+}
+
+#github {
+  background-image: url(GitHub_logo_no_back.png);
 }
 
 nav {
@@ -74,11 +92,22 @@ nav {
   margin-bottom: 4%;
 }
 
-nav>ul {
-  max-width: 100%;
+.flex>* {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.flex {
+  margin-left: -10px;
+  margin-right: -10px;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
+}
+
+nav>ul {
+  max-width: 100%;
+  padding-left: 0px;
 }
 
 nav>ul>li {
